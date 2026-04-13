@@ -7,6 +7,10 @@ Extract files from this example: https://youtu.be/buKxhVuHdrY
 
 To use it, just download as zip, run python encrypt_decrypt.py
 
+I was able to upload 15mb of data to ONE language track.
+You can upload **3645mb** to a single video because there is 243 language tracks.
+And modifiying the data is possible by deleting the language track and uploading the new data but it is not implemented here yet.
+
 ## Requirements
 
 - Python 3.8+
