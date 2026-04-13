@@ -3,6 +3,8 @@ To upload automatically, you need client_secrets.json from google cloud.
 This allows you to upload any files to a single video encrypted and compressed in base64 using 'e'
 You can extract files from any video id using 'x'
 
+Extract files from this example: https://youtu.be/buKxhVuHdrY
+
 To use it, just download as zip, run python encrypt_decrypt.py
 
 ## Requirements
